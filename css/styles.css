@@ -13,6 +13,51 @@ body
   padding-left: 2%
 }
 
+.review-text
+{
+  font-family: 'Open Sans',sans-serif;
+  font-size: 2vw;
+}
+
+.review-main1
+{
+  background-color: lightpink;
+  border-radius: 1.30vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.review-image
+{
+border-radius: 50%;
+width: 50%;
+margin-left: 10%;
+margin-top: 10%;
+}
+
+.review-main2
+{
+  background-color: #FFFF99;
+  border-radius: 1.30vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.colons
+{
+  font-size: 160%;
+  font-family: sans-serif;
+}
+
+.review-title
+{
+  font-family: 'Merriweather', sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 160%;
+}
+
 .tab01
 {
   background-color: skyblue;
