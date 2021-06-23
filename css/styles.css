@@ -195,3 +195,49 @@ margin-top: 10%;
   padding-left: 0.2vw;
   
 }
+.perks{
+  background-color: #9693e6; 
+  margin-bottom: 2vw;
+  padding-bottom: 2vw;
+}
+.perks h1{
+  padding-top:1vw;
+  font-weight: bold;
+}
+.perks p{
+  padding-left: 3vw;
+  padding-right: 3vw;
+  font-weight: bold;
+}
+.card1{
+  padding-top: 1vw;
+}
+.card2{
+  padding-top: 2vw;
+  margin: auto;
+}
+.container-card{
+  margin: auto;
+  background-color: white;
+  width: 80%;
+  border-radius: 1.6vw;
+  padding-bottom: 2vw;
+  
+}
+.register-btn{
+  background-color: #9693e6;
+    border-radius: 1.3vw;
+    color: white;
+    font-family: sans-serif;
+    border: 0;
+    height: 40%;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 130%;
+}
+
