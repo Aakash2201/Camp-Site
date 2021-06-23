@@ -225,11 +225,21 @@ margin-top: 10%;
   padding-left: 0.2vw;
   
 }
+.perkscolor
+{
+  color:white;
+}
+
+.perkscolor1
+{
+  color: #9693e6;
+}
 .perks{
-  background-color: #9693e6; 
+  background-color: #9693e6;
   margin-bottom: 2vw;
   padding-bottom: 2vw;
   font-family: 'Montserrat', sans-serif;
+  color: grey;
 }
 .perks h1{
   padding-top:1vw;
