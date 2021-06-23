@@ -10,7 +10,7 @@ body
   font-size: 180%;
   font-family: 'Montserrat', sans-serif;
   color: white;
-  padding-left: 5%
+  padding-left: 2%
 }
 
 .tab01
@@ -54,6 +54,7 @@ body
   background-color: #3279BB;
   color: white;
   font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
 
 }
 
@@ -108,12 +109,9 @@ body
   background-color: #2E8B57;
   color: white;
   font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
 }
-.tab02_button a
-{
-  text-decoration: none;
-  color: white;
-}
+
 .tab02_button:hover {
   background-color: white;
   color: #2E8B57;
