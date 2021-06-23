@@ -1,0 +1,149 @@
+body
+{
+  margin: 0;
+  /* text-align: center; */
+  font-family: 'Merriweather', serif;
+}
+
+
+.topNavbar
+{
+  background-color: #0084FF;
+  padding: 2%;
+  text-align: left;
+  font-weight:500;
+}
+
+.topNavbar a
+{
+  font-size: 180%;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-left: 5%
+}
+
+.tab01
+{
+  background-color: skyblue;
+  border-radius: 25px;
+  width: 50%;
+  margin-left: 6.5%;
+  margin-top: 3%;
+  float: left;
+
+}
+
+.tab01_info01
+{
+
+  font-size: 160%;
+  padding-left: 4%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-family: 'Montserrat', sans-serif;
+  color: #0084FF;
+  font-weight: bold;
+
+}
+
+.tab01_info02
+{
+
+  padding: 0 4% 10% 4%;
+  font-family: 'Montserrat', sans-serif;
+  color: #3279BB;
+  font-weight: bold;
+}
+
+.tab01_button
+{
+  padding: 2% 5% 2% 5%;
+  border-radius: 150px;
+  border: transparent;
+  position: relative;
+  margin-bottom: 8%;
+  margin-left: 4%;
+  background-color: #3279BB;
+  color: white;
+  font-weight: bold;
+
+}
+
+.tab01 img
+{
+  width: 50%;
+  float: right;
+  margin: 2%;
+}
+
+
+.tab01_button:hover {
+  background-color: white;
+  color: #3279BB;
+}
+
+.tab02
+{
+  background-color: #90EE90;
+  border-radius: 25px;
+  width:fit-content;
+  text-align: center;
+  margin-top: 3%;
+  margin-left: 0.5%;
+  margin-right: 2%;
+  float: right;
+
+}
+
+.tab02_info01
+{
+
+  font-size: 160%;
+  padding-left: 4%;
+  font-family: 'Montserrat', sans-serif;
+  color: #2E8B57;
+  font-weight: bold;
+  padding-bottom: 3%;
+
+}
+.tab02_info02
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #3CB371;
+  font-weight: bold;
+  word-wrap: break-word;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.tab02_button
+{
+  padding: 2% 5% 2% 5%;
+  border-radius: 150px;
+  border: transparent;
+  position: relative;
+  margin-top: 10%;
+  margin-bottom: 8%;
+  margin-left: 4%;
+  background-color: #2E8B57;
+  color: white;
+  font-weight: bold;
+
+}
+.tab02_button a
+{
+  text-decoration: none;
+  color: white;
+}
+.tab02_button:hover {
+  background-color: white;
+  color: #2E8B57;
+}
+.tab02 img
+{
+  width: 60%;
+  margin-top: 2%;
+
+}
