@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.moreCard1{
+    padding: 1vw 5vw;
+    margin: 1vw 4vw;
+    margin-bottom: 1vw;
+    padding-bottom: 2vw;
+    background: linear-gradient(91deg, white , aquamarine);
+    border-radius: 2.3vw;
+}
+
+.image1{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.trek{
+    height: auto;
+    width: 100%;
+}
+.reverse{
+    background: linear-gradient(91deg, aquamarine , white);
+}
+@media screen and (max-width:768px)
+{
+    .image{
+        margin: auto;
+        width: 70%;
+    }
+    .reverse{
+        flex-direction: column-reverse;
+    }
+}
+.text-1{
+    padding-left: 3vw ;
+    padding-top: 2vw;
+    padding-right: 2vw;
+}
