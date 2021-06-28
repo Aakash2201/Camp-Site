@@ -1,2 +1,2 @@
 # Camp-Site
-Company which arranges various adventures activities.
+Company which arranges various adventurous activities.
