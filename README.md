@@ -1,2 +1,2 @@
 # Camp-Site
-site for a company which arranges wild life camp for kids. 
+Company which arranges veriou advantures activities.
